@@ -1,0 +1,11 @@
+.bg-box {
+    height: 700px;
+ 
+    background-color: green;
+    width: 1000px;
+  background-image: url("./img/photo_2024-03-16_22-12-28.jpg"),  url("./img/green-png-44873.png"), url("./img/lamp-png-34914.png"), url("./img/58eb07b830eab15b56162788.png"), url("./img/3F3F.webp") ;
+  background-size:400px, 100px, 50px, 50px, 50px;
+  background-position:center, bottom, top, right, left ;
+  background-repeat:no-repeat, repeat-x, repeat-x, repeat-y, repeat-y;
+  
+  }
